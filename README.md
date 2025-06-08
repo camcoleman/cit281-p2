@@ -8,3 +8,5 @@ Refactor the JavaScript program from the previous project to practice using git 
 Use git via VSCode
 Create and use a .gitignore file
 Diff split screen
+
+View code on GitHub: https://camcoleman.github.io/cit281-p2
